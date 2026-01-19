@@ -1,3 +1,6 @@
+# Materia-Integradora-INGE3078
+
+**Estructura del Proyecto:** 
 Materia-Integradora-INGE3078/
 n\n
 n\n├── 01_Diseño_Mecanico_CAD/
